@@ -12,12 +12,12 @@ body {
 
 .inner {
 	display: grid;
-	grid-template-columns: auto;
-	grid-template-rows: 350px;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: 200px;
 }
 
 .img {
-	width: 200px;
+	width: 150px;
 }
 
 .item {
