@@ -37,6 +37,7 @@ body {
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: 700;
+	margin-bottom: 10;
 
 	transition: background .2s linear;
 }
