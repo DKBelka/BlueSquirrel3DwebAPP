@@ -8,6 +8,7 @@ body {
 
 .container {
 	max-width: 390px;
+	margin-bottom: 100;
 }
 
 .inner {
@@ -37,7 +38,7 @@ body {
 	color: #fff;
 	text-transform: uppercase;
 	font-weight: 700;
-	margin-bottom: 100;
+	
 
 	transition: background .2s linear;
 }
