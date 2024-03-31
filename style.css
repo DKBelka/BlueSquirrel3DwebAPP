@@ -13,11 +13,11 @@ body {
 .inner {
 	display: grid;
 	grid-template-columns: 1fr;
-	grid-template-rows: 200px;
+	grid-template-rows: 390px;
 }
 
 .img {
-	width: 150px;
+	width: 390px;
 }
 
 .item {
