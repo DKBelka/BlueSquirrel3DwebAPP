@@ -7,8 +7,9 @@ body {
 }
 
 .container {
-	
-	max-width: 500px;
+	margin-left: 5%;
+	margin-right: 5%;
+	max-width: auto;
 	align: center ;
 	
 }
@@ -59,7 +60,7 @@ body {
 	text-align: center;
 	justify-content: center;
 	align: center
-	width: 500px;
+	width: auto;
 	height: 60px;
 	border-radius: 10px;
   	background-color: lightgray;
