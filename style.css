@@ -54,6 +54,7 @@ body {
 
 .title {
 	text-align: center;
+	place-items: center;
 	align: center
 	width: 350px;
 	height: 60px;
