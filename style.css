@@ -53,6 +53,7 @@ body {
 }
 
 .title {
+	align: center
 	width: 350px;
 	height: 60px;
 	border-radius: 50%;
